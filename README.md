@@ -17,11 +17,23 @@ $ cd Scripps_ES
 $ pip install -r requirements.txt
 ```
 
+### Run Elasticsearch
+
+Navigate to directory where Elasticsearch is installed. Change to the Elasticsearch bin subfolder, then start the program
+
+```
+$ cd bin 
+$ ./elasticsearch
+```
+
 ### Run the script
 
 ```
 $ FLASK_APP=query_script.py flask run
 ```
+
+Once the script is running, the terminal will display the address where the app is running
+
 
 ## Querying data
 
