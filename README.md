@@ -7,8 +7,8 @@ Create index data from Harvard Dataverse and make them searchable by ID or keywo
 ### Clone the repo
 
 ```
-$ git clone https://github.com/soominl/Scripps_ES.git
-$ cd Scripps_ES
+$ git clone https://github.com/soominl/ES_API.git
+$ cd ES_API
 ```
 
 ### Install dependencies
